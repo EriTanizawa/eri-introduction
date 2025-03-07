@@ -1,0 +1,30 @@
+h2 {
+    color: chocolate;
+}
+
+#shiki_1 {
+    color: blue;
+}
+
+.custom-button {
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: #0056b3;
+}
+
+.white-text {
+    color: white;
+}
+
+
+}
